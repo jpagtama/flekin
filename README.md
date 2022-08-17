@@ -37,5 +37,5 @@ flekin('Nothing is so fatiguing as the eternal hanging on of an uncompleted task
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://raw.githubusercontent.com/jpagtama/flekin/main/license)
 
