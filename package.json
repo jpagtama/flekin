@@ -1,0 +1,30 @@
+{
+  "name": "flekin",
+  "version": "1.0.0",
+  "description": "Calculate the readability of user input text based on Flesch-Kincaid formulas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpagtama/flesch-kincaid.git"
+  },
+  "keywords": [
+    "Flesch-Kincaid",
+    "Flesch",
+    "Kincaid",
+    "Readability",
+    "Reading"
+  ],
+  "author": "Julian Pagtama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpagtama/flesch-kincaid/issues"
+  },
+  "homepage": "https://github.com/jpagtama/flesch-kincaid#readme",
+  "dependencies": {
+    "syllable": "^5.0.0"
+  }
+}
