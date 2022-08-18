@@ -1,6 +1,6 @@
 {
   "name": "flekin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Calculate the readability of user input text based on Flesch-Kincaid formulas",
   "main": "index.js",
   "type": "module",
